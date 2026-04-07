@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+gym
+torch
+torchvision
+tensorboard
