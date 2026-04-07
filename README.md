@@ -153,6 +153,18 @@ This ensures that learned policies follow basic economic intuition.
 
 The trained policy reduces costs by maintaining lower inventory levels while allowing minimal controlled lost sales.
 
+### Training Progress
+![Training Progress](results/multi_agent_training_progress.png)
+
+### Cost Comparison
+![Daily Cost Comparison](results/daily_system_cost_comparison.png)
+
+### Finished Goods Inventory Comparison
+![Finished Goods Inventory Comparison](results/average_finished_goods_inventory_comparison.png)
+
+### Raw Material Inventory Comparison
+![Raw Material Inventory Comparison](results/raw_material_inventory_level_comparison.png)
+
 ---
 
 ## Outputs
